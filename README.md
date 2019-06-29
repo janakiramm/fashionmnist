@@ -1,1 +1,1 @@
-# fashionmnist
+# Fashion MNIST Keras Tutorial
